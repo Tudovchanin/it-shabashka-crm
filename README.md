@@ -50,23 +50,23 @@
     </td>
     <td width="50%">
       <p align="center"><b>Добавление новой шабашки</b></p>
-      <img src="./assets/add_task.png" alt="Форма создания задачи" width="100%"/>
+      <img src="./add_task.png" alt="Форма создания задачи" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <p align="center"><b>Детальный просмотр и логи карточки</b></p>
-      <img src="./assets/task_details.png" alt="Просмотр карточки" width="100%"/>
+      <img src="./task_details.png" alt="Просмотр карточки" width="100%"/>
     </td>
     <td width="50%">
       <p align="center"><b>Выбор рабочих пространств и Радио</b></p>
-      <img src="./assets/rooms_player.png" alt="Кастомизация комнат и плеер" width="100%"/>
+      <img src="./rooms_player.png" alt="Кастомизация комнат и плеер" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%" colspan="2" align="center">
       <p align="center"><b>Настройка колонок и профиль пользователя</b></p>
-      <img src="./assets/profile_settings.png" alt="Настройки колонок и профиль" width="50%"/>
+      <img src="./profile_settings.png" alt="Настройки колонок и профиль" width="50%"/>
     </td>
   </tr>
 </table>
