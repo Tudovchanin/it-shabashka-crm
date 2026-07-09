@@ -46,7 +46,7 @@
   <tr>
     <td width="50%">
       <p align="center"><b>Главный экран: Канбан-доска</b></p>
-      <img src="./assets/kanban_board.png" alt="Канбан доска CRM" width="100%"/>
+      <img src="./kanban_board.png" alt="Канбан доска CRM" width="100%"/>
     </td>
     <td width="50%">
       <p align="center"><b>Добавление новой шабашки</b></p>
